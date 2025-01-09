@@ -1,1 +1,1 @@
-# Superstore-sales-nalysis
+# Superstore-sales-analysis
