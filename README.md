@@ -50,7 +50,7 @@ Overall Sales Performance: Displays total sales, sales by categories, and sales 
 Customer Analysis: Displays best selling customers, most profitable cusstomers
 
 - Sample Dashboard
-## [Sales Dashboard](images/dashboard.jpg)
+## [Sales Dashboard](Sales_project_images/Overall_Sales_dashboard.jpg)
 
 ## Conclusion
 By utilizing Excel for initial data handling, SQL for data querying, and PowerBI for visual reporting, we effectively analyzed our sales data. This integrated approach provided actionable insights into our sales performance, customer behavior, and employee productivity, leading to informed business decisions.
