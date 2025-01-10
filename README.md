@@ -24,7 +24,7 @@ We have three primary data sources:
 
 ## Excel Data Cleanup
 I used Excel for the initial data entry and to clean the raw sales data.
-- [Superstore-data](Excel-file/Sample-Superstore.csv) : The sales dataset
+- [Superstore-data](Project-file/Sample-Superstore.csv) : The sales dataset
 
 ## SQL Queries
 After cleaning the data with Excel, we imported it into the SQL database and used various SQL queries to analyze it.
